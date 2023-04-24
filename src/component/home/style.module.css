@@ -1,0 +1,8 @@
+.container{
+  background-color: teal;
+  width: 500px;
+  height: 150px;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 20px;
+}
